@@ -1,3 +1,7 @@
+
+![Banner](https://your-banner-image-url.com)
+
+
 # Hi 👋, I'm Elif
 A passionate **Python Developer** from Türkiye
 
@@ -38,7 +42,8 @@ A passionate **Python Developer** from Türkiye
 ![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF26BE?style=for-the-badge&logo=adobe-xd&logoColor=white)
 
 ---
-
+### Contributions Graph 
+ 
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=elfgk&theme=radical)
 
 
