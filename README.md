@@ -13,18 +13,18 @@ A passionate **Python Developer** from Türkiye
 
 
 ### Languages and Tools:
-  
-![Python](https://img.icons8.com/ios/452/python.png)
-![NumPy](https://img.icons8.com/ios/452/numpy.png)
-![Pandas](https://img.icons8.com/ios/452/pandas.png)
-![Matplotlib](https://img.icons8.com/ios/452/matplotlib.png)
-![Scikit-Learn](https://img.icons8.com/ios/452/scikit-learn.png)
-![Gradio](https://img.icons8.com/ios/452/gradio.png)
-![OpenCV](https://img.icons8.com/ios/452/opencv.png)
-![Jupyter](https://img.icons8.com/ios/452/jupyter.png)
-![MySQL](https://img.icons8.com/ios/452/mysql.png)
-![Seaborn](https://img.icons8.com/ios/452/seaborn.png)
 
+
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/matplotlib-0062AD?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Gradio](https://img.shields.io/badge/gradio-40B5B5?style=for-the-badge&logo=gradio&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=open-cv&logoColor=white)
+![Jupyter](https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Seaborn](https://img.shields.io/badge/seaborn-9E4F96?style=for-the-badge&logo=seaborn&logoColor=white)
 
 
 ---
