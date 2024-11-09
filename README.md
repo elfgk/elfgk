@@ -5,7 +5,7 @@ A passionate **Python Developer** from Türkiye
 
 🌱 I’m currently learning **Machine Learning** and **Deep Learning**.
 
-📫 How to reach me: [elfgok@example.com](mailto:elfgok@example.com)
+📫 How to reach me: [elfgok@example.com](mailto:elfgk148@gmail.com)
 
 ## Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/elfgk/)
@@ -14,16 +14,17 @@ A passionate **Python Developer** from Türkiye
 ## Languages and Tools:
 ### Languages and Tools:
 
-![Python](https://img.icons8.com/color/48/000000/python.png)
-![NumPy](https://img.icons8.com/ios-filled/50/000000/numpy.png)
-![Pandas](https://img.icons8.com/ios-filled/50/000000/pandas.png)
-![Matplotlib](https://img.icons8.com/ios-filled/50/000000/matplotlib.png)
-![Scikit-Learn](https://img.icons8.com/ios-filled/50/000000/scikit-learn.png)
-![Gradio](https://img.icons8.com/ios-filled/50/000000/gradio.png)
-![OpenCV](https://img.icons8.com/ios-filled/50/000000/opencv.png)
-![Jupyter](https://img.icons8.com/ios-filled/50/000000/jupyter.png)
-![MySQL](https://img.icons8.com/ios-filled/50/000000/mysql.png)
-![Seaborn](https://img.icons8.com/ios-filled/50/000000/seaborn.png)
+![Python](https://img.icons8.com/fluency/48/000000/python.png)
+![NumPy](https://img.icons8.com/fluency/48/000000/numpy.png)
+![Pandas](https://img.icons8.com/fluency/48/000000/pandas.png)
+![Matplotlib](https://img.icons8.com/fluency/48/000000/matplotlib.png)
+![Scikit-Learn](https://img.icons8.com/fluency/48/000000/scikit-learn.png)
+![Gradio](https://img.icons8.com/fluency/48/000000/gradio.png)
+![OpenCV](https://img.icons8.com/fluency/48/000000/opencv.png)
+![Jupyter](https://img.icons8.com/fluency/48/000000/jupyter.png)
+![MySQL](https://img.icons8.com/fluency/48/000000/mysql.png)
+![Seaborn](https://img.icons8.com/fluency/48/000000/seaborn.png)
+
 
 
 ---
