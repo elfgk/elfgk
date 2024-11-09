@@ -9,11 +9,9 @@ A passionate **Python Developer** from Türkiye
 
 ## Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/elfgk/)
-- [GitHub](https://github.com/elfgk)
-- [Twitter](https://twitter.com/elfgk)
+
 
 ## Languages and Tools:
-### Languages and Tools:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -24,6 +22,7 @@ A passionate **Python Developer** from Türkiye
 ![Jupyter](https://img.shields.io/badge/Jupyter-DA5BDA?style=for-the-badge&logo=jupyter&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-9E2A2F?style=for-the-badge&logo=seaborn&logoColor=white)
+
 
 
 ---
