@@ -38,7 +38,7 @@ A passionate **Python Developer** from Türkiye
 ### Most Used Languages
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elfgk&langs_count=5&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elfgk&langs_count=1&layout=compact)
 
 
 ---
