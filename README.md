@@ -37,15 +37,16 @@ A passionate **Python Developer** from Türkiye
 
 ### Most Used Languages
 
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elfgk&langs_count=5&layout=compact)
+
 
 ---
 
 ### Projects
 
 - 🚀 [**Text to Speech App**](https://github.com/elfgk/text-to-speech-app): A Python app using gTTS and Gradio for text-to-speech conversion.
-- 🌐 [**Web Scraper**](https://github.com/elfgk/web-scraper): A Python-based web scraping tool to gather data from websites.
-- 📊 [**Data Analysis Project**](https://github.com/elfgk/data-analysis): An analysis project on public datasets using Python and Pandas.
+
 
 ---
 
