@@ -61,10 +61,13 @@ A passionate **Python Developer** from Türkiye
 
 ### Projects
 
-🚀 Text to Speech App: A Python app using gTTS and Gradio for text-to-speech conversion.
-🚀 BMI Calculator with Tkinter: A desktop application developed using Tkinter to calculate Body Mass Index (BMI).
-📝 Secret Notes App with Tkinter: A simple desktop application built with Tkinter that allows you to store encrypted notes.
-🎮 Turtle Game: A fun Python game built using Turtle graphics where the player controls a turtle to complete various challenges.
+-🚀 Text to Speech App: A Python app using gTTS and Gradio for text-to-speech conversion.
+
+-🚀 BMI Calculator with Tkinter: A desktop application developed using Tkinter to calculate Body Mass Index (BMI).
+
+-📝 Secret Notes App with Tkinter: A simple desktop application built with Tkinter that allows you to store encrypted notes.
+
+-🎮 Turtle Game: A fun Python game built using Turtle graphics where the player controls a turtle to complete various challenges.
 
 ---
 
