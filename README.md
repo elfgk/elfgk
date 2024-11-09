@@ -39,6 +39,11 @@ A passionate **Python Developer** from Türkiye
 
 ---
 
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=elfgk&theme=radical)
+
+
+
+---
 ### My GitHub Stats
 
 ![Elif Gök GitHub Stats](https://github-readme-stats.vercel.app/api?username=elfgk&show_icons=true&count_private=true&hide=prs&theme=radical)
