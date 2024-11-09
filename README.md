@@ -13,16 +13,17 @@ A passionate **Python Developer** from Türkiye
 
 
 ### Languages and Tools:
-
-- ![Python](https://img.icons8.com/ios/452/python.png) Python
-- ![Pandas](https://img.icons8.com/ios/452/pandas.png) Pandas
-- ![Matplotlib](https://img.icons8.com/ios/452/matplotlib.png) Matplotlib
-- ![Scikit-learn](https://img.icons8.com/ios/452/scikit-learn.png) Scikit-learn
-- ![Gradio](https://img.icons8.com/ios/452/gradio.png) Gradio
-- ![OpenCV](https://img.icons8.com/ios/452/opencv.png) OpenCV
-- ![Jupyter Notebook](https://img.icons8.com/ios/452/jupyter.png) Jupyter Notebook
-- ![MySQL](https://img.icons8.com/ios/452/mysql.png) MySQL
-- ![Seaborn](https://img.icons8.com/ios/452/seaborn.png) Seaborn
+  
+![Python](https://img.icons8.com/ios/452/python.png)
+![NumPy](https://img.icons8.com/ios/452/numpy.png)
+![Pandas](https://img.icons8.com/ios/452/pandas.png)
+![Matplotlib](https://img.icons8.com/ios/452/matplotlib.png)
+![Scikit-Learn](https://img.icons8.com/ios/452/scikit-learn.png)
+![Gradio](https://img.icons8.com/ios/452/gradio.png)
+![OpenCV](https://img.icons8.com/ios/452/opencv.png)
+![Jupyter](https://img.icons8.com/ios/452/jupyter.png)
+![MySQL](https://img.icons8.com/ios/452/mysql.png)
+![Seaborn](https://img.icons8.com/ios/452/seaborn.png)
 
 
 
