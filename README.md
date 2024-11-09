@@ -25,22 +25,21 @@ A passionate **Python Developer** from Türkiye
 ![Jupyter](https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/seaborn-9E4F96?style=for-the-badge&logo=seaborn&logoColor=white)
-
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![JupyterLab](https://img.shields.io/badge/Jupyter_Lab-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF26BE?style=for-the-badge&logo=adobe-xd&logoColor=white)
 
 ---
 
 ### My GitHub Stats
 
 ![Elif Gök GitHub Stats](https://github-readme-stats.vercel.app/api?username=elfgk&show_icons=true&count_private=true&hide=prs&theme=radical)
-
----
-
-### Most Used Languages
-
-
-### Most Used Language
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elfgk&langs_count=1&layout=compact)
 
 
 
