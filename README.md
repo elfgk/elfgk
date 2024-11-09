@@ -41,6 +41,7 @@ A passionate **Python Developer** from Türkiye
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elfgk&langs_count=1&layout=compact)
 
 
+
 ---
 
 ### Projects
