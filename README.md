@@ -1,5 +1,5 @@
 
-![Banner](https://github.com/elfgk/elfgk/blob/main/engineer-4904884_1280.jpg)
+![Banner](https://github.com/elfgk/elfgk/blob/main/engineer.jpg)
 
 
 # Hi 👋, I'm Elif
