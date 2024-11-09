@@ -14,7 +14,16 @@ A passionate **Python Developer** from Türkiye
 
 ### Languages and Tools:
 
-<img src="https://img.icons8.com/ios/452/seaborn.png" alt="Seaborn" width="50" height="50">
+- ![Python](https://img.icons8.com/ios/452/python.png) Python
+- ![Pandas](https://img.icons8.com/ios/452/pandas.png) Pandas
+- ![Matplotlib](https://img.icons8.com/ios/452/matplotlib.png) Matplotlib
+- ![Scikit-learn](https://img.icons8.com/ios/452/scikit-learn.png) Scikit-learn
+- ![Gradio](https://img.icons8.com/ios/452/gradio.png) Gradio
+- ![OpenCV](https://img.icons8.com/ios/452/opencv.png) OpenCV
+- ![Jupyter Notebook](https://img.icons8.com/ios/452/jupyter.png) Jupyter Notebook
+- ![MySQL](https://img.icons8.com/ios/452/mysql.png) MySQL
+- ![Seaborn](https://img.icons8.com/ios/452/seaborn.png) Seaborn
+
 
 
 ---
