@@ -81,31 +81,31 @@ A passionate **Python Developer** from Türkiye
   <table>
     <tr>
       <td>
-        <a href="https://github.com/elfgk/fast-gemini-nano">
+        <a href="https://github.com/elfgk/SecretNotes">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=elfgk&repo=fast-gemini-nano&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
       <td>
-        <a href="https://github.com/elfgk/Weather-3d-ai-app.git">
+        <a href="https://github.com/elfgk/Turtle">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=elfgk&repo=Weather-3d-ai-app&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/elfgk/moviedjangoai">
+        <a href="https://github.com/elfgk/BMI">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=elfgk&repo=moviedjangoai&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
       <td>
-        <a href="https://github.com/elfgk/speech-to-text.git">
+        <a href="https://github.com/elfgk/metinden-sese-cevirme">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=elfgk&repo=speech-to-text&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/elfgk/SmolLM">
+        <a href="https://github.com/elfgk/elfgk.github.io">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=elfgk&repo=SmolLM&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
