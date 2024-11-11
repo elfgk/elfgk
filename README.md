@@ -5,6 +5,9 @@
 # Hi 👋, I'm Elif
 A passionate **Python Developer** from Türkiye
 
+**i love code**&nbsp;&nbsp;![](cat-typing.gif)&nbsp;&nbsp;**
+
+
 🔭 I’m currently working on **Python** and developing projects in the field of **Data Science**.
 
 🌱 I’m currently learning **Machine Learning** and **Deep Learning**.
