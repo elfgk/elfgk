@@ -24,7 +24,7 @@ A passionate **Python Developer** from Türkiye
 
 
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=guilyx&theme=onedark&column=-1" />
+  <img alig src="https://github-profile-trophy.vercel.app/?username=elfgk&theme=onedark&column=-1" />
 </p>
 
 
