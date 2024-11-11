@@ -6,7 +6,7 @@
 
 <h1 align="center">  Hi 👋, I'm Elif  </h1>
 
-**i love code**&nbsp;&nbsp;![](cat-typing.gif)&nbsp;&nbsp;
+  **I love code**&nbsp;&nbsp;![](cat-typing.gif)&nbsp;&nbsp;
 
 A passionate **Python Developer** from Türkiye
 
