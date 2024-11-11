@@ -22,11 +22,11 @@ A passionate **Python Developer** from Türkiye
 [![Hugging Face](https://img.shields.io/badge/HuggingFace-9C30FF?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/elfgk)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/elfgkk)
 
-
-<p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=elfgk&theme=onedark&column=-1" />
-</p>
-
+<h1>
+  <p align="center">
+    <img alig src="https://github-profile-trophy.vercel.app/?username=elfgk&theme=onedark&column=-1" />
+  </p>
+</h1>
 
 <h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Tech Stack</h1>
 
