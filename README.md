@@ -4,7 +4,7 @@
 
 # Hi 👋, I'm Elif
 
-**i love code**&nbsp;&nbsp;![](cat-typing.gif)&nbsp;&nbsp;**
+**i love code**&nbsp;&nbsp;![](cat-typing.gif)&nbsp;&nbsp;
 
 A passionate **Python Developer** from Türkiye
 
