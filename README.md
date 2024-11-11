@@ -109,11 +109,6 @@ A passionate **Python Developer** from Türkiye
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=elfgk&repo=elfgk.github.io&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
-      <td>
-        <a href="https://github.com/elfgk/Llama-3.2_running_locally">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=elfgk&repo=Llama-3.2_running_locally&theme=highcontrast&hide_border=true&border_radius=15" />
-        </a>
-      </td>
     </tr>
   </table>
 </div>
