@@ -16,7 +16,8 @@ A passionate **Python Developer** from Türkiye
 
 📫 How to reach me: [elfgk148@gmail.com](mailto:elfgk148@gmail.com)
 
-## Connect with me:
+<h1> Connect with me: </h1>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elfgk/)
 [![Stack Overflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/27559679/elfgk)
 [![Hugging Face](https://img.shields.io/badge/HuggingFace-9C30FF?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/elfgk)
