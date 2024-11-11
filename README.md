@@ -23,6 +23,8 @@ A passionate **Python Developer** from Türkiye
 [![Hugging Face](https://img.shields.io/badge/HuggingFace-9C30FF?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/elfgk)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/elfgkk)
 
+<h1> </h1>
+
 <h1>
   <p align="center">
     <img alig src="https://github-profile-trophy.vercel.app/?username=elfgk&theme=onedark&column=-1" />
