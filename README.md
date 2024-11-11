@@ -185,4 +185,22 @@ A passionate **Python Developer** from Türkiye
 
 ---
 
+
+<h2 align="center">Support Me</h2>
+<div align="center">
+  <table align="center">
+    <tr>
+      <th align="center">
+        <a href="https://www.buymeacoffee.com/kenangain" target="_blank">
+          <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px; width: 217px;">
+        </a>
+      </th>
+    </tr>
+  </table>
+</div>
+
+
+
+---
+
 > **"Keep learning, stay curious, and embrace the challenge!"**
