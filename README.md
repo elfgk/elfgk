@@ -43,12 +43,6 @@ A passionate **Python Developer** from Türkiye
 ![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF26BE?style=for-the-badge&logo=adobe-xd&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
----
-### Contributions Graph 
- 
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=elfgk&theme=radical)
-
-
 
 ---
 ### My GitHub Stats
