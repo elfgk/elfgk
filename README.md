@@ -14,7 +14,7 @@ A passionate **Python Developer** from Türkiye
 
 🌱 I’m currently learning **Machine Learning** and **Deep Learning**.
 
-📫 How to reach me: [elfgk148@gmail.com](mailto:elfgk148@gmail.com)
+📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-jessicalim813-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:elfgk148@gmail.com)](mailto:elifgk148@gmail.com)
 
 <h1> Connect with me: </h1>
 
