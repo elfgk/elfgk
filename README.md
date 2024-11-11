@@ -45,10 +45,9 @@ A passionate **Python Developer** from Türkiye
 
 
 ---
-### My GitHub Stats
 
-![Elif Gök GitHub Stats](https://github-readme-stats.vercel.app/api?username=elfgk&show_icons=true&count_private=true&hide=prs&theme=radical)
-<h3 align="center">Git Stats</h3>
+
+<h3 align="center">### My GitHub Stats</h3>
 
 <div align="center">
  
