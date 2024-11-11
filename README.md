@@ -1,7 +1,4 @@
 ![Totals Hits](https://komarev.com/ghpvc/?username=elfgk&style=flat&color=red&label=PROFILE+VIEWS)
-
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svgurl=https%3A%2F%2Fgithub.com%2FSPXD&count_bg=red&title_bg=black&icon=mediafire.svg&icon_color=red&title=HITS&edge_flat=false)
-
 [![GitHub followers](https://img.shields.io/github/followers/elfgk?label=Follow&style=social)](https://github.com/elfgk) 
 ![Banner](https://github.com/elfgk/elfgk/blob/main/engineer.jpg)
 
