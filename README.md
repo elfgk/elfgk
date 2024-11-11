@@ -3,10 +3,10 @@
 
 
 # Hi 👋, I'm Elif
+
+**i love code**&nbsp;&nbsp;![](cat-typing.gif)&nbsp;&nbsp;**and unicorns**&nbsp;&nbsp;![](unicorn.gif)
+
 A passionate **Python Developer** from Türkiye
-
-**i love code**&nbsp;&nbsp;![](cat-typing.gif)&nbsp;&nbsp;**
-
 
 🔭 I’m currently working on **Python** and developing projects in the field of **Data Science**.
 
