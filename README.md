@@ -15,12 +15,16 @@ A passionate **Python Developer** from Türkiye
 
 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-elfgk-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:elfgk148@gmail.com)](mailto:elifgk148@gmail.com)
 
+
+𓍢ִ໋☕️✧˚ ༘ ⋆
+
 <h1> Connect with me: </h1>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elfgk/)
 [![Stack Overflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/27559679/elfgk)
 [![Hugging Face](https://img.shields.io/badge/HuggingFace-9C30FF?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/elfgk)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/elfgkk)
+-ˋˏ✄┈┈┈┈
 
 <h1> </h1>
 
@@ -32,6 +36,7 @@ A passionate **Python Developer** from Türkiye
 
 <h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Tech Stack</h1>
 
+-ˋˏ✄┈┈┈┈
 
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -55,6 +60,7 @@ A passionate **Python Developer** from Türkiye
 ![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
+-ˋˏ✄┈┈┈┈
 
 
 <h3 align="center">AI/ML & Data Science</h3>
@@ -88,7 +94,8 @@ A passionate **Python Developer** from Türkiye
  </table>
 </div>
 
----
+-ˋˏ✄┈┈┈┈
+
 
 
 <h3 align="center"><br> My GitHub Stats <br></h3>
@@ -119,6 +126,7 @@ A passionate **Python Developer** from Türkiye
 <img src="https://github-readme-stats.vercel.app/api?username=elfgk&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Elif's GitHub stats">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elfgk&theme=highcontrast&hide_border=true">
+-ˋˏ✄┈┈┈┈
 
 ### Top Repositories
 <div align="center">
@@ -157,6 +165,7 @@ A passionate **Python Developer** from Türkiye
   </table>
 </div>
 
+-ˋˏ✄┈┈┈┈
 
 
 ### GitHub Contribution Chart
@@ -181,7 +190,8 @@ A passionate **Python Developer** from Türkiye
 <br>
 
 
----
+-ˋˏ✄┈┈┈┈
+
 
 ### Projects
 
@@ -193,7 +203,8 @@ A passionate **Python Developer** from Türkiye
 
 -🎮 Turtle Game: A fun Python game built using Turtle graphics where the player controls a turtle to complete various challenges.
 
----
+-ˋˏ✄┈┈┈┈
+
 
 
 <h2 align="center">Support Me</h2>
@@ -215,7 +226,8 @@ A passionate **Python Developer** from Türkiye
 <br />
 
 ![Visitor Count](https://profile-counter.glitch.me/elfgk/count.svg)
----
+-ˋˏ✄┈┈┈┈
+
 
 > **"Keep learning, stay curious, and embrace the challenge!"**
 <p align="center">
