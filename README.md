@@ -9,7 +9,7 @@
 
   **I love code**&nbsp;&nbsp;![](cat-typing.gif)&nbsp;&nbsp;
 
-A passionate **Python Developer** from Türkiye
+╰┈➤A passionate **Python Developer** from Türkiye
 
 🔭 I’m currently working on **Python** and developing projects in the field of **Data Science**.
 
