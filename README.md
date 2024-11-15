@@ -9,7 +9,7 @@
 
   **I love code**&nbsp;&nbsp;![](cat-typing.gif)&nbsp;&nbsp;
 
-╰┈➤A passionate **Python Developer** from Türkiye <h2> 👩🏻‍💻ᝰ.ᐟ </h2>
+╰┈➤A passionate **Python Developer** from Türkiye <br> 👩🏻‍💻ᝰ.ᐟ </br>
 
 🔭 I’m currently working on **Python** and developing projects in the field of **Data Science**.
 
@@ -18,7 +18,7 @@
 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-elfgk-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:elfgk148@gmail.com)](mailto:elifgk148@gmail.com)
 
 
-𓍢ִ໋☕️✧˚ ༘ ⋆
+<h1> 𓍢ִ໋☕️✧˚ ༘ ⋆ </h1>
 
 <h1> Connect with me: </h1>
 
