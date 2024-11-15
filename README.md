@@ -18,7 +18,7 @@
 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-elfgk-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:elfgk148@gmail.com)](mailto:elifgk148@gmail.com)
 
 
-<h1> 𓍢ִ໋☕️✧˚ ༘ ⋆ </h1>
+<h1 align="center"> 𓍢ִ໋☕️✧˚ ༘ ⋆ </h1>
 
 <h1> Connect with me: </h1>
 
