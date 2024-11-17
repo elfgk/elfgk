@@ -1,6 +1,6 @@
 ![Totals Hits](https://komarev.com/ghpvc/?username=elfgk&style=flat&color=red&label=PROFILE+VIEWS)
 [![GitHub followers](https://img.shields.io/github/followers/elfgk?label=Follow&style=social)](https://github.com/elfgk) 
-![Banner](https://github.com/elfgk/elfgk/blob/main/engineer.jpg)
+![Banner](https://github.com/elfgk/elfgk/blob/main/ee.jpg)
 
 
 <h1 align="center">  Hi <a href="https://www.linkedin.com/in/elfgk/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>, I'm Elif ☕︎ </h1>
