@@ -60,7 +60,7 @@
 ![JupyterLab](https://img.shields.io/badge/Jupyter_Lab-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF26BE?style=for-the-badge&logo=adobe-xd&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
+![PyQt5](https://img.shields.io/badge/PyQt5-FF5F00?style=for-the-badge&logo=python&logoColor=white)
 
 
 
