@@ -3,7 +3,7 @@
 ![Banner](https://github.com/elfgk/elfgk/blob/main/ee.jpg)
 
 <h1 align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="100" height="100"/><br>
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="150" height="150"/><br>
 </h1>
 <h1 align="center">  Hi <a href="https://www.linkedin.com/in/elfgk/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>, I'm Elif ☕︎ </h1>
 
