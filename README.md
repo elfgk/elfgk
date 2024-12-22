@@ -99,8 +99,12 @@
   </tbody>
  </table>
 </div>
+
+
 <br><br>
-<h3 > My Latest Blog Post</h3>
+
+
+<h1> My Latest Blog Post</h1>
 
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://elfgk.medium.com/) 
 
