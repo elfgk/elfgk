@@ -100,16 +100,13 @@
  </table>
 </div>
 
+<h3 align="center"> My Latest Blog Post</h3>
+
+[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://elfgk.medium.com/) 
 
 
-[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://elfgk.medium.com/) <h3 align="center"> My Latest Blog Post:</h3>
-
-
-* [What are the Transformers?](https://nikita-prasad-analyst.medium.com/what-are-the-transformers-2569e5cad2af)
-* [Self-Attention Networks : Beginners Friendly In-Depth Understanding](https://levelup.gitconnected.com/self-attention-networks-beginners-friendly-in-depth-understanding-0f2d605a8f23)
-* [Step-by-Step Walkthrough to A/B Testing Fundamentals](https://ai.plainenglish.io/step-by-step-walkthrough-to-a-b-testing-fundamentals-0d8ba67be113)
-* [SQL Queries to Transform Your Data into Insights](https://medium.com/learning-data/sql-queries-to-transforms-data-into-insights-74166df3e6dd)
-* [10 Ways to Write Better Python Codes](https://levelup.gitconnected.com/10-ways-to-write-better-python-codes-55fc862ab0ef)
+* [Python ile Yapay Zeka ve Makine Öğrenmesi Uygulamaları Geliştirmek](https://elfgk.medium.com/python-ile-yapay-zeka-ve-makine-%C3%B6%C4%9Frenmesi-uygulamalar%C4%B1-geli%C5%9Ftirmek-0b6bd8339be0)
+* [Regresyon ve Sınıflandırma: Temel Kavramlar ve Değerlendirme Metrikleri](https://elfgk.medium.com/regresyon-ve-s%C4%B1n%C4%B1fland%C4%B1rma-temel-kavramlar-ve-de%C4%9Ferlendirme-metrikleri-c1a83ccae60d)
 
 
 
