@@ -108,9 +108,9 @@
 
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://elfgk.medium.com/) 
 
-
-* [Python ile Yapay Zeka ve Makine Öğrenmesi Uygulamaları Geliştirmek](https://elfgk.medium.com/python-ile-yapay-zeka-ve-makine-%C3%B6%C4%9Frenmesi-uygulamalar%C4%B1-geli%C5%9Ftirmek-0b6bd8339be0)
 * [Regresyon ve Sınıflandırma: Temel Kavramlar ve Değerlendirme Metrikleri](https://elfgk.medium.com/regresyon-ve-s%C4%B1n%C4%B1fland%C4%B1rma-temel-kavramlar-ve-de%C4%9Ferlendirme-metrikleri-c1a83ccae60d)
+* [Python ile Yapay Zeka ve Makine Öğrenmesi Uygulamaları Geliştirmek](https://elfgk.medium.com/python-ile-yapay-zeka-ve-makine-%C3%B6%C4%9Frenmesi-uygulamalar%C4%B1-geli%C5%9Ftirmek-0b6bd8339be0)
+
 
 
 
