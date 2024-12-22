@@ -99,7 +99,8 @@
   </tbody>
  </table>
 </div>
-<h3 align="center"> My Latest Blog Post:</h3> [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://elfgk.medium.com/)
+<h3 align="center"> My Latest Blog Post:</h3>
+[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://elfgk.medium.com/)
 
 * [What are the Transformers?](https://nikita-prasad-analyst.medium.com/what-are-the-transformers-2569e5cad2af)
 * [Self-Attention Networks : Beginners Friendly In-Depth Understanding](https://levelup.gitconnected.com/self-attention-networks-beginners-friendly-in-depth-understanding-0f2d605a8f23)
