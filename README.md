@@ -100,6 +100,12 @@
  </table>
 </div>
 
+# 📑 My Latest Blog Post: [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://elfgk.medium.com/)
+* [What are the Transformers?](https://nikita-prasad-analyst.medium.com/what-are-the-transformers-2569e5cad2af)
+* [Self-Attention Networks : Beginners Friendly In-Depth Understanding](https://levelup.gitconnected.com/self-attention-networks-beginners-friendly-in-depth-understanding-0f2d605a8f23)
+* [Step-by-Step Walkthrough to A/B Testing Fundamentals](https://ai.plainenglish.io/step-by-step-walkthrough-to-a-b-testing-fundamentals-0d8ba67be113)
+* [SQL Queries to Transform Your Data into Insights](https://medium.com/learning-data/sql-queries-to-transforms-data-into-insights-74166df3e6dd)
+* [10 Ways to Write Better Python Codes](https://levelup.gitconnected.com/10-ways-to-write-better-python-codes-55fc862ab0ef)
 
 
 
