@@ -30,6 +30,14 @@
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://elfgk.medium.com/)
 [![Stack Overflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/27559679/elfgk)
 
+<br>
+<h1> My Latest Blog Post</h1>
+
+[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://elfgk.medium.com/) 
+
+* [Regresyon ve Sınıflandırma: Temel Kavramlar ve Değerlendirme Metrikleri](https://elfgk.medium.com/regresyon-ve-s%C4%B1n%C4%B1fland%C4%B1rma-temel-kavramlar-ve-de%C4%9Ferlendirme-metrikleri-c1a83ccae60d)
+* [Python ile Yapay Zeka ve Makine Öğrenmesi Uygulamaları Geliştirmek](https://elfgk.medium.com/python-ile-yapay-zeka-ve-makine-%C3%B6%C4%9Frenmesi-uygulamalar%C4%B1-geli%C5%9Ftirmek-0b6bd8339be0)
+
 
 
 <h1> </h1>
@@ -103,13 +111,6 @@
 
 <br><br>
 
-
-<h1> My Latest Blog Post</h1>
-
-[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://elfgk.medium.com/) 
-
-* [Regresyon ve Sınıflandırma: Temel Kavramlar ve Değerlendirme Metrikleri](https://elfgk.medium.com/regresyon-ve-s%C4%B1n%C4%B1fland%C4%B1rma-temel-kavramlar-ve-de%C4%9Ferlendirme-metrikleri-c1a83ccae60d)
-* [Python ile Yapay Zeka ve Makine Öğrenmesi Uygulamaları Geliştirmek](https://elfgk.medium.com/python-ile-yapay-zeka-ve-makine-%C3%B6%C4%9Frenmesi-uygulamalar%C4%B1-geli%C5%9Ftirmek-0b6bd8339be0)
 
 
 
