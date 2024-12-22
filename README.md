@@ -100,7 +100,7 @@
  </table>
 </div>
 <br><br>
-<h3 align="center"> My Latest Blog Post</h3>
+<h3 > My Latest Blog Post</h3>
 
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://elfgk.medium.com/) 
 
