@@ -1,6 +1,6 @@
 ![Totals Hits](https://komarev.com/ghpvc/?username=elfgk&style=flat&color=red&label=PROFILE+VIEWS)
 [![GitHub followers](https://img.shields.io/github/followers/elfgk?label=Follow&style=social)](https://github.com/elfgk) 
-![Banner](Created MemePfp (9)-fotor-2024122241059.jpg)
+![Banner](https://github.com/elfgk/elfgk/blob/main/Created%20MemePfp%20(9)-fotor-2024122241059.jpg)
 
 <h1 align="center" style="border: none;">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="150" height="150"/><br>
