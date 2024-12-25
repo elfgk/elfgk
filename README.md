@@ -9,6 +9,16 @@
 
 <h1 align="center"> 🎞️🤎🧋🧸</h1>
 
+ <p align="center">
+  <a>
+    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Left.png">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=CagatayAkkas&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="CagatayAkkas" />
+    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Right.png">
+  </a>
+</p>
+
+
+
   **I love code**&nbsp;&nbsp;![](cat-typing.gif)&nbsp;&nbsp;
 
 ╰┈➤A passionate **Python Developer** from Türkiye  👩🏻‍💻ᝰ.ᐟ
