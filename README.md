@@ -5,28 +5,8 @@
 <h1 align="center" style="border: none;">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="150" height="150"/><br>
 </h1>
-
- <p align="center">
-  <a>
-    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Left.png">
-        <h1 align="center">  Hi <a href="https://www.linkedin.com/in/elfgk/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>, I'm Elif ☕︎ </h1>
-        <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Right.png">
-  </a>
-</p>
-
         
-
 <h1 align="center"> 🎞️🤎🧋🧸</h1>
-
- <p align="center">
-  <a>
-    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Left.png">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="150" height="150"/><br>
-    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Right.png">
-  </a>
-</p>
-
-
 
   **I love code**&nbsp;&nbsp;![](cat-typing.gif)&nbsp;&nbsp;
 
