@@ -2,13 +2,12 @@
 [![GitHub followers](https://img.shields.io/github/followers/elfgk?label=Follow&style=social)](https://github.com/elfgk) 
 <br>
 
- <p align="center">
-  <a>
-    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Left.png">
-       <img src="https://github.com/elfgk/elfgk/blob/main/Created%20MemePfp%20(9)-fotor-2024122241059%20(1).jpg" alt="Python" width="150" height="150"/><br>
-    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Right.png">
-  </a>
-</p>
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Left.png">
+  <img src="https://github.com/elfgk/elfgk/blob/main/Created%20MemePfp%20(9)-fotor-2024122241059%20(1).jpg" alt="Python" width="150" height="150"/>
+  <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Right.png">
+</div>
+
 
 
 <h1 align="center" style="border: none;">
