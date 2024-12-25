@@ -3,6 +3,13 @@
 <br>
 ![Banner](https://github.com/elfgk/elfgk/blob/main/Created%20MemePfp%20(9)-fotor-2024122241059%20(1).jpg)
 
+
+<h1 align="center" style="border: none;">
+        <img src="https://github.com/elfgk/elfgk/blob/main/Created%20MemePfp%20(9)-fotor-2024122241059%20(1).jpg" alt="Python" width="150" height="150"/><br>
+</h1>
+
+
+
 <h1 align="center" style="border: none;">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="150" height="150"/><br>
 </h1>
