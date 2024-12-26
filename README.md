@@ -2,15 +2,15 @@
 [![GitHub followers](https://img.shields.io/github/followers/elfgk?label=Follow&style=social)](https://github.com/elfgk) 
 <br>
 
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh; gap: 20px;">
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh; position: relative;">
   <!-- Sol Görsel -->
-  <img src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Left.png" alt="Left Wing" style="height: 160px; width: 182px;">
+  <img src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Left.png" alt="Left Wing" style="position: absolute; left: 30%; height: 160px; width: 182px;">
   
   <!-- Ortadaki Görsel -->
   <img src="https://github.com/elfgk/elfgk/blob/main/Created%20MemePfp%20(9)-fotor-2024122241059%20(1).jpg" alt="Python" style="height: 150px; width: 150px;">
 
   <!-- Sağ Görsel -->
-  <img src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Right.png" alt="Right Wing" style="height: 160px; width: 182px;">
+  <img src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Right.png" alt="Right Wing" style="position: absolute; right: 30%; height: 160px; width: 182px;">
 </div>
 
 
