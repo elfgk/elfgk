@@ -2,10 +2,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/elfgk?label=Follow&style=social)](https://github.com/elfgk) 
 <br>
 <br>
-![MasterHead](https://github.com/elfgk/elfgk/blob/main/ppp.png)
-<div style="position: relative; height: 100vh;">
-  <img src="https://github.com/elfgk/elfgk/blob/main/ppp.png" alt="MasterHead" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
-</div>
+
 
 <img src="https://github.com/elfgk/elfgk/blob/main/pppppp.png" alt="MasterHead" width="100%" />
 
