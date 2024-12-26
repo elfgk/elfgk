@@ -7,7 +7,9 @@
   <img src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Left.png" alt="Left Wing" style="height: 160px; width: 182px;">
 
   <!-- Ortadaki Görsel -->
-  <img src="https://github.com/elfgk/elfgk/blob/main/Created%20MemePfp%20(9)-fotor-2024122241059%20(1).jpg" alt="Python" style="height: 150px; width: 150px;">
+  <div style="flex-grow: 1; display: flex; justify-content: center;">
+    <img src="https://github.com/elfgk/elfgk/blob/main/Created%20MemePfp%20(9)-fotor-2024122241059%20(1).jpg" alt="Python" style="height: 150px; width: 150px;">
+  </div>
 
   <!-- Sağ Görsel -->
   <img src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Right.png" alt="Right Wing" style="height: 160px; width: 182px;">
