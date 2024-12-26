@@ -6,6 +6,12 @@
 
 <img src="https://github.com/elfgk/elfgk/blob/main/pppppp.png" alt="MasterHead" width="100%" />
 
+<div align="center">
+ <a href="https://github.com/elfgk">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Çağatay+Akkaş+%e2%9c%a8;%f0%9f%93%9a+Python+Developer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
+ </a>
+</div>
+
 <h1 align="center" style="border: none;">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="150" height="150"/><br>
 </h1>
