@@ -3,16 +3,9 @@
 <br>
 <br>
 ![MasterHead](https://github.com/elfgk/elfgk/blob/main/ppp.png)
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-  <img src="https://github.com/elfgk/elfgk/blob/main/ppp.png" alt="MasterHead">
-</div>
 
 
 
-
-<h1 align="center" style="border: none;">
-        <img src="https://github.com/elfgk/elfgk/blob/main/Created%20MemePfp%20(9)-fotor-2024122241059%20(1).jpg" alt="Python" width="150" height="150"/><br>
-</h1>
 
 
 
