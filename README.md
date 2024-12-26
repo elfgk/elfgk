@@ -20,7 +20,7 @@
 
   **I love code**&nbsp;&nbsp;![](cat-typing.gif)&nbsp;&nbsp;
 
-╰┈➤A passionate **Python Developer** from Türkiye  👩🏻‍💻ᝰ.ᐟ
+╰┈➤A passionate **Python Developer** from Turkiye  👩🏻‍💻ᝰ.ᐟ
 
 🔭 I’m currently working on **Python** and developing projects in the field of **Data Science**.
 
