@@ -6,11 +6,6 @@
 
 <img src="https://github.com/elfgk/elfgk/blob/main/pppppp.png" alt="MasterHead" width="100%" />
 
-
-
-
-
-
 <h1 align="center" style="border: none;">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="150" height="150"/><br>
 </h1>
